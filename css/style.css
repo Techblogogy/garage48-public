@@ -1860,7 +1860,7 @@ h2.typoh2{
 	h1, .h1, h2, .h2, h3, .h3 {
 		margin-top: 0px;
 		margin-bottom: 0px;
-		
+
 	}
 	.grid_5 h3, .grid_5 h2, .grid_5 h1, .grid_5 h4, .grid_5 h5, h3.hdg, h3.bars {
 		margin-bottom: .5em;
@@ -2157,7 +2157,7 @@ h3.w3ls-title {
     margin: 1.5em auto 0;
 }
 .properties-img {
-    height: 210px;
+    height: 300px;
 }
 .w3ls-related .agents.w3agent-grid {
     width: 75%;
@@ -2210,7 +2210,7 @@ h3.w3ls-title {
     font-size: 2.2em;
 }
 .properties-img {
-    height: 190px;
+    height: 250px;
 }
 .properties-img.properties-img-single {
     height: 190px;
@@ -2337,7 +2337,7 @@ h3.w3ls-title {
 }
 
 .properties-windows img{
-	height: 210px;
+
 	padding: 5%;
 }
 .money li.text {
